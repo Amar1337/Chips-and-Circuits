@@ -1,2 +1,8 @@
-# Chips-and-Circuits
-Chips (or more precisely: integrated circuits) are found in your PC, MacBook, Android Phone and microwave oven where they perform a diversity of functions, ranging from timekeeping and motor control to arithmetic and logic. Basically a small plate of silicon, chips are usually designed logically and subsequentially transformed to a list of connectable gates. This list, commonly known as a net list is finally transformed into a 2-dimensional design on a silicon base.  This last step however, the physical real-world process of connecting the gates, is highly volatile. Good arrangements on the base lead to short connections, leading to faster circuits, whereas poor arrangements lead to slower circuits. It leads to no doubt that a good arrangement of logical gates and good wiring between them is of vital essence to the performance of the IC as a whole.  To make things easier, we will consider the wiring problem only. The gates have already been arranged, and all it takes is finding very short wiring patterns.
+##Informatie
+Chips and Circuits bestaat uit:
+
+- Daniël Staal
+- Eelco Alink
+- Amar Skenderovic
+
+Het README bestand zal tijdens het project constant bijgewerkt worden met; gebruiksaanwijzingen van methoden en updates met de voortgang van het project.
