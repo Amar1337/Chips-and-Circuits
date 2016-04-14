@@ -1,0 +1,23 @@
+Collected Data
+
+http://betterexplained.com/articles/navigate-a-grid-using-combinations-and-permutations/
+
+From every gate, there are 6 dimentions (N,S,E,W, up, down)
+
+Every circuit connecting two gates moves within a cube of 18 by 13 by 7 (layers)
+
+The total number of connections for 3 dimensions  is (18+13+7)! = 42! = 1.41e51 of 1.41x10^51
+
+This we divide by the dimensions 42!/ (18! * 13! * 7!)  = 7, 00e21 of 7,00*10^21 
+
+This is for one connection. Every next connection has this value minus the last used possibility…
+This however only accounts for the the movement one way in every direction. If direction needs to be inverse to avoid collisions, every direction needs movement both ways
+
+For two directions you need (18+18+13+13+7+7)! = 76!
+
+This makes the total number of possibilities 76! / (18!*18!*13!*13!*7!*7!) = 4,67e52
+
+So…. considering, this should happen for every of the 30 connections that need to be made in the first set of  print 1.
+
+What remains is question is how to discount the probabilities where circuits intersect another gate or circuit?
+
