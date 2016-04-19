@@ -6,3 +6,8 @@ Chips and Circuits bestaat uit:
 - Amar Skenderovic
 
 Het README bestand zal tijdens het project constant bijgewerkt worden met; gebruiksaanwijzingen van methoden en updates met de voortgang van het project. 
+
+
+
+
+78878
