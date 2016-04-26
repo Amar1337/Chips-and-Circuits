@@ -5,9 +5,5 @@ Chips and Circuits bestaat uit:
 - Eelco Alink
 - Amar Skenderovic   
 
-Het README bestand zal tijdens het project constant bijgewerkt worden met; gebruiksaanwijzingen van methoden en updates met de voortgang van het project. 
-
-
-
-
-78878
+Het README bestand zal tijdens het project constant bijgewerkt worden met; 
+gebruiksaanwijzingen van methoden en updates met de voortgang van het project. 
